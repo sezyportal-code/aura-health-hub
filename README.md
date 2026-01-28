@@ -3,7 +3,7 @@ Question: How to Use this File?
 Way 1:
 Steps:
 1. Download this File
-2. once it's connected to that folder. Run this command "npm install"
+2. once it's connected to that folder. Run this command "npm install" in terminal (Of VS code or computer terminal)
 3. It will install all the dependencies for your Project
 4. Then run this command "npm run dev"
 5. It will provide a local host link, copy it and run it on your browser
@@ -25,10 +25,10 @@ If this file is in github
 
 
 1. go to VS code
-2. Go to command pallet
+2. Go to command pallet, 
 3. clone this git repository
 4. once it's cloned and you have selected which folder to put these files in
-5.then run this command "cd [the folder name in which the files are located at]"
+5.then run this command "cd [the folder name in which the files are located at]" in terminal of the VS code
 6. once it's connected to that folder. Run this command "npm install"
 7. It will install all the dependencies for your Project
 8. Then run this command "npm run dev"
